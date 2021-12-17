@@ -1,0 +1,929 @@
+<!DOCTYPE html><html lang="en"><head><link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" /><link rel="manifest" href="/favicon/site.webmanifest" /><link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5" /><meta name="msapplication-TileColor" content="#000000" /><meta name="theme-color" content="#3f51b5" /><title>ไฮไลท์บอล ดูไฮไลท์บอล  ไฮไลท์บอลย้อนหลัง  | LivescoreThai</title><meta charSet="utf-8" /><meta name="viewport" content="initial-scale=1.0, width=device-width" /><link rel="shortcut icon" href="/favicon/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" /><link rel="manifest" href="/favicon/site.webmanifest" /><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" /><meta name="msapplication-TileColor" content="#151515" /><meta name="theme-color" content="#151515" /><meta name="description" content="LivescoreThai ดูไฮไลท์บอล ไฮไลท์บอล ไฮไลท์บอลย้อนหลัง Livescorethai.net แจกไฮไลท์บอล ช็อตเด็ดฟรี นำไปวิเคราะห์ได้อย่างแม่นยำ! ทุกคู่ทุกวันแบบเรียลไทม์ได้ที่นี่ อัพเดทรวดเร็ว 24 ชั่วโมง" /><meta name="next-head-count" content="13" /><link rel="preload" href="/_next/static/css/d57fad129d263dd361af.css" as="style" /><link rel="stylesheet" href="/_next/static/css/d57fad129d263dd361af.css" data-n-g="" /><noscript data-n-css=""></noscript><link rel="preload" href="/_next/static/chunks/main-01296f80a3a27a0d8764.js" as="script" /><link rel="preload" href="/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js" as="script" /><link rel="preload" href="/_next/static/chunks/framework.8c52b5b4b899e1d1fad4.js" as="script" /><link rel="preload" href="/_next/static/chunks/commons.db8e5b07ac008231ac1b.js" as="script" /><link rel="preload" href="/_next/static/chunks/3570992f341794fc88456f388fe5831bd2831e9b.9a93886710ea349fc596.js" as="script" /><link rel="preload" href="/_next/static/chunks/pages/_app-f1b663bf8c8d9bfa6351.js" as="script" /><link rel="preload" href="/_next/static/chunks/2852872c.2cadfa95eaa60a0d995b.js" as="script" /><link rel="preload" href="/_next/static/chunks/75fc9c18.72ffbdf36987a48d9602.js" as="script" /><link rel="preload" href="/_next/static/chunks/b44c568d85ff727bb04d0a9bdcef582f3a1c0c71.44706ab911b17ff7472d.js" as="script" /><link rel="preload" href="/_next/static/chunks/pages/index-133bcace328b5a13f6b1.js" as="script" /><style id="jss-server-side">html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #fff;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  background-color: #303030;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #303030;
+}
+.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #3f51b5;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #f50057;
+}
+.MuiSvgIcon-colorAction {
+  color: #fff;
+}
+.MuiSvgIcon-colorError {
+  color: #ff1744;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(255, 255, 255, 0.3);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiContainer-root {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiContainer-root {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiContainer-disableGutters {
+    padding-left: 0;
+    padding-right: 0;
+  }
+@media (min-width:600px) {
+  .MuiContainer-fixed {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-fixed {
+    max-width: 960px;
+  }
+}
+@media (min-width:1280px) {
+  .MuiContainer-fixed {
+    max-width: 1280px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-fixed {
+    max-width: 1920px;
+  }
+}
+@media (min-width:0px) {
+  .MuiContainer-maxWidthXs {
+    max-width: 444px;
+  }
+}
+@media (min-width:600px) {
+  .MuiContainer-maxWidthSm {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-maxWidthMd {
+    max-width: 960px;
+  }
+}
+@media (min-width:1280px) {
+  .MuiContainer-maxWidthLg {
+    max-width: 1280px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-maxWidthXl {
+    max-width: 1920px;
+  }
+}
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .MuiTable-root {
+    width: 100%;
+    display: table;
+    border-spacing: 0;
+    border-collapse: collapse;
+  }
+  .MuiTable-root caption {
+    color: rgba(255, 255, 255, 0.7);
+    padding: 16px;
+    font-size: 0.875rem;
+    text-align: left;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.43;
+    caption-side: bottom;
+    letter-spacing: 0.01071em;
+  }
+  .MuiTable-stickyHeader {
+    border-collapse: separate;
+  }
+  .MuiTableBody-root {
+    display: table-row-group;
+  }
+  .MuiTableCell-root {
+    display: table-cell;
+    padding: 16px;
+    font-size: 0.875rem;
+    text-align: left;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.43;
+    border-bottom: 1px solid
+    rgba(81, 81, 81, 1);
+    letter-spacing: 0.01071em;
+    vertical-align: inherit;
+  }
+  .MuiTableCell-head {
+    color: #fff;
+    font-weight: 500;
+    line-height: 1.5rem;
+  }
+  .MuiTableCell-body {
+    color: #fff;
+  }
+  .MuiTableCell-footer {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.75rem;
+    line-height: 1.3125rem;
+  }
+  .MuiTableCell-sizeSmall {
+    padding: 6px 24px 6px 16px;
+  }
+  .MuiTableCell-sizeSmall:last-child {
+    padding-right: 16px;
+  }
+  .MuiTableCell-sizeSmall.MuiTableCell-paddingCheckbox {
+    width: 24px;
+    padding: 0 12px 0 16px;
+  }
+  .MuiTableCell-sizeSmall.MuiTableCell-paddingCheckbox:last-child {
+    padding-left: 12px;
+    padding-right: 16px;
+  }
+  .MuiTableCell-sizeSmall.MuiTableCell-paddingCheckbox > * {
+    padding: 0;
+  }
+  .MuiTableCell-paddingCheckbox {
+    width: 48px;
+    padding: 0 0 0 4px;
+  }
+  .MuiTableCell-paddingCheckbox:last-child {
+    padding-left: 0;
+    padding-right: 4px;
+  }
+  .MuiTableCell-paddingNone {
+    padding: 0;
+  }
+  .MuiTableCell-paddingNone:last-child {
+    padding: 0;
+  }
+  .MuiTableCell-alignLeft {
+    text-align: left;
+  }
+  .MuiTableCell-alignCenter {
+    text-align: center;
+  }
+  .MuiTableCell-alignRight {
+    text-align: right;
+    flex-direction: row-reverse;
+  }
+  .MuiTableCell-alignJustify {
+    text-align: justify;
+  }
+  .MuiTableCell-stickyHeader {
+    top: 0;
+    left: 0;
+    z-index: 2;
+    position: sticky;
+    background-color: #303030;
+  }
+  .MuiTableHead-root {
+    display: table-header-group;
+  }
+  .MuiTableRow-root {
+    color: inherit;
+    display: table-row;
+    outline: 0;
+    vertical-align: middle;
+  }
+  .MuiTableRow-root.MuiTableRow-hover:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+  }
+  .MuiTableRow-root.Mui-selected, .MuiTableRow-root.Mui-selected:hover {
+    background-color: rgba(245, 0, 87, 0.16);
+  }
+  .MuiPaginationItem-root {
+    color: #fff;
+    height: 32px;
+    margin: 0 3px;
+    padding: 0 6px;
+    font-size: 0.875rem;
+    min-width: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.43;
+    border-radius: 16px;
+    letter-spacing: 0.01071em;
+  }
+  .MuiPaginationItem-page {
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .MuiPaginationItem-page:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+  }
+  .MuiPaginationItem-page.Mui-focusVisible {
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+  .MuiPaginationItem-page.Mui-selected {
+    background-color: rgba(255, 255, 255, 0.16);
+  }
+  .MuiPaginationItem-page.Mui-disabled {
+    opacity: 0.38;
+  }
+  .MuiPaginationItem-page.Mui-selected:hover, .MuiPaginationItem-page.Mui-selected.Mui-focusVisible {
+    background-color: rgba(255, 255, 255, 0.24);
+  }
+  .MuiPaginationItem-page.Mui-selected.Mui-disabled {
+    color: rgba(255, 255, 255, 0.3);
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 0.16);
+  }
+@media (hover: none) {
+  .MuiPaginationItem-page.Mui-selected:hover, .MuiPaginationItem-page.Mui-selected.Mui-focusVisible {
+    background-color: rgba(255, 255, 255, 0.16);
+  }
+}
+@media (hover: none) {
+  .MuiPaginationItem-page:hover {
+    background-color: transparent;
+  }
+}
+  .MuiPaginationItem-sizeSmall {
+    height: 26px;
+    margin: 0 1px;
+    padding: 0 4px;
+    min-width: 26px;
+    border-radius: 13px;
+  }
+  .MuiPaginationItem-sizeSmall .MuiPaginationItem-icon {
+    font-size: 1.125rem;
+  }
+  .MuiPaginationItem-sizeLarge {
+    height: 40px;
+    padding: 0 10px;
+    font-size: 0.9375rem;
+    min-width: 40px;
+    border-radius: 20px;
+  }
+  .MuiPaginationItem-sizeLarge .MuiPaginationItem-icon {
+    font-size: 1.375rem;
+  }
+  .MuiPaginationItem-textPrimary.Mui-selected {
+    color: #fff;
+    background-color: #3f51b5;
+  }
+  .MuiPaginationItem-textPrimary.Mui-selected:hover, .MuiPaginationItem-textPrimary.Mui-selected.Mui-focusVisible {
+    background-color: #303f9f;
+  }
+  .MuiPaginationItem-textPrimary.Mui-selected.Mui-disabled {
+    color: rgba(255, 255, 255, 0.3);
+  }
+@media (hover: none) {
+  .MuiPaginationItem-textPrimary.Mui-selected:hover, .MuiPaginationItem-textPrimary.Mui-selected.Mui-focusVisible {
+    background-color: #3f51b5;
+  }
+}
+  .MuiPaginationItem-textSecondary.Mui-selected {
+    color: #fff;
+    background-color: #f50057;
+  }
+  .MuiPaginationItem-textSecondary.Mui-selected:hover, .MuiPaginationItem-textSecondary.Mui-selected.Mui-focusVisible {
+    background-color: #c51162;
+  }
+  .MuiPaginationItem-textSecondary.Mui-selected.Mui-disabled {
+    color: rgba(255, 255, 255, 0.3);
+  }
+@media (hover: none) {
+  .MuiPaginationItem-textSecondary.Mui-selected:hover, .MuiPaginationItem-textSecondary.Mui-selected.Mui-focusVisible {
+    background-color: #f50057;
+  }
+}
+  .MuiPaginationItem-outlined {
+    border: 1px solid rgba(255, 255, 255, 0.23);
+  }
+  .MuiPaginationItem-outlined.Mui-selected.Mui-disabled {
+    border: 1px solid rgba(255, 255, 255, 0.12);
+  }
+  .MuiPaginationItem-outlinedPrimary.Mui-selected {
+    color: #3f51b5;
+    border: 1px solid rgba(63, 81, 181, 0.5);
+    background-color: rgba(63, 81, 181, 0.24);
+  }
+  .MuiPaginationItem-outlinedPrimary.Mui-selected:hover, .MuiPaginationItem-outlinedPrimary.Mui-selected.Mui-focusVisible {
+    background-color: rgba(63, 81, 181, 0.32);
+  }
+  .MuiPaginationItem-outlinedPrimary.Mui-selected.Mui-disabled {
+    color: rgba(255, 255, 255, 0.3);
+  }
+@media (hover: none) {
+  .MuiPaginationItem-outlinedPrimary.Mui-selected:hover, .MuiPaginationItem-outlinedPrimary.Mui-selected.Mui-focusVisible {
+    background-color: transparent;
+  }
+}
+  .MuiPaginationItem-outlinedSecondary.Mui-selected {
+    color: #f50057;
+    border: 1px solid rgba(245, 0, 87, 0.5);
+    background-color: rgba(245, 0, 87, 0.24);
+  }
+  .MuiPaginationItem-outlinedSecondary.Mui-selected:hover, .MuiPaginationItem-outlinedSecondary.Mui-selected.Mui-focusVisible {
+    background-color: rgba(245, 0, 87, 0.32);
+  }
+  .MuiPaginationItem-outlinedSecondary.Mui-selected.Mui-disabled {
+    color: rgba(255, 255, 255, 0.3);
+  }
+@media (hover: none) {
+  .MuiPaginationItem-outlinedSecondary.Mui-selected:hover, .MuiPaginationItem-outlinedSecondary.Mui-selected.Mui-focusVisible {
+    background-color: transparent;
+  }
+}
+  .MuiPaginationItem-rounded {
+    border-radius: 4px;
+  }
+  .MuiPaginationItem-ellipsis {
+    height: auto;
+  }
+  .MuiPaginationItem-ellipsis.Mui-disabled {
+    opacity: 0.38;
+  }
+  .MuiPaginationItem-icon {
+    margin: 0 -8px;
+    font-size: 1.25rem;
+  }
+  .MuiPagination-ul {
+    margin: 0;
+    display: flex;
+    padding: 0;
+    flex-wrap: wrap;
+    list-style: none;
+    align-items: center;
+  }</style></head><body><div id="__next"><div><div id="header"><div id="logo"><a href="/"><div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0"><div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==" /></div><img alt="livescorethai" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="visibility:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" /></div></a></div></div><div class="MuiContainer-root container MuiContainer-maxWidthMd"><div id="main-cotainer"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="box-tded"><h2 class="text-header">ทีเด็ดบอลวันนี้</h2><table class="MuiTable-root table table-default" id="livescore-table"><thead class="MuiTableHead-root"><tr class="MuiTableRow-root league-sub-header MuiTableRow-head"><th class="MuiTableCell-root MuiTableCell-head" scope="col"></th><th class="MuiTableCell-root MuiTableCell-head" scope="col">ทีม</th><th class="MuiTableCell-root MuiTableCell-head" scope="col">ผล</th><th class="MuiTableCell-root MuiTableCell-head" scope="col">อัตรา</th><th class="MuiTableCell-root MuiTableCell-head" scope="col">ทรรศนะ</th><th class="MuiTableCell-root MuiTableCell-head" scope="col">มั่นใจ</th></tr></thead><tbody class="MuiTableBody-root"><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body first-td text-center text-success" width="25" valign="middle">ขนะ</td><td class="MuiTableCell-root MuiTableCell-body match-link"><div class="teamname  text-warning">ดอร์ทมุนด์</div><div class="teamname  ">Borussia Dortmund</div><div class="league-name"><div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0"><div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" /></div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="visibility:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" /></div><strong>บุนเดิสลีกา<!-- --> </strong></div></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45" data-score=" - "><strong class="score">3<!-- --> </strong><br /><strong class="score">0<!-- --> </strong></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45"><strong class="text-info">2.5<!-- --> </strong></td><td class="MuiTableCell-root MuiTableCell-body text-left"><span class="text"> <!-- -->ทีเด็ด ฟันธง ดอร์ทมุนด์ ซัดกระจาย</span></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45"><span class="text-warning">80%</span></td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body first-td text-center text-success" width="25" valign="middle">ขนะ</td><td class="MuiTableCell-root MuiTableCell-body match-link"><div class="teamname  text-warning">FC Augsburg</div><div class="teamname  ">แอร์เบ ไลป์ซิก</div><div class="league-name"><div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0"><div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" /></div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="visibility:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" /></div><strong>บุนเดิสลีกา<!-- --> </strong></div></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45" data-score=" - "><strong class="score">1<!-- --> </strong><br /><strong class="score">1<!-- --> </strong></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45"><strong class="text-info">1<!-- --> </strong></td><td class="MuiTableCell-root MuiTableCell-body text-left"><span class="text"> <!-- -->ทีเด็ด ฟันธง แอร์เบ ไลป์ซิก เด็ดดวง</span></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45"><span class="text-warning">80%</span></td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body first-td text-center text-success" width="25" valign="middle">ขนะ</td><td class="MuiTableCell-root MuiTableCell-body match-link"><div class="teamname  text-warning">Borussia Mönchengladbach</div><div class="teamname  ">แฟร้งค์เฟิร์ต</div><div class="league-name"><div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0"><div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" /></div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="visibility:hidden;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" /></div><strong>บุนเดิสลีกา<!-- --> </strong></div></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45" data-score=" - "><strong class="score">2<!-- --> </strong><br /><strong class="score">3<!-- --> </strong></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45"><strong class="text-info">0.5<!-- --> </strong></td><td class="MuiTableCell-root MuiTableCell-body text-left"><span class="text"> <!-- -->ทีเด็ด ฟันธง แฟร้งค์เฟิร์ต เอาอยู่</span></td><td class="MuiTableCell-root MuiTableCell-body text-center " width="45"><span class="text-warning">80%</span></td></tr></tbody></table><br /><h2 class="text-header">วิเคราะห์บอลล่าสุด</h2><table class="MuiTable-root table table-default" id="livescore-table"><thead class="MuiTableHead-root"></thead><tbody class="MuiTableBody-root"><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2412"><span class="badge  effect-blink">HOT</span>วิเคราะห์บอล พรีเมียร์ลีก : เลสเตอร์ -vs- สเปอร์ส</a></td><td class="MuiTableCell-root MuiTableCell-body">16/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2411"><span class="badge  effect-blink">HOT</span>วิเคราะห์บอล พรีเมียร์ลีก : เชลซี -vs- เอฟเวอร์ตัน</a></td><td class="MuiTableCell-root MuiTableCell-body">16/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2410"><span class="badge  effect-blink">HOT</span>วิเคราะห์บอล พรีเมียร์ลีก : ลิเวอร์พูล -vs- นิวคาสเซิ่ล</a></td><td class="MuiTableCell-root MuiTableCell-body">16/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2409"><span class="badge  effect-blink">HOT</span>วิเคราะห์บอล โคปปา อิตาเลีย รอบ 2 : สเปเซีย -vs- เลชเช่ </a></td><td class="MuiTableCell-root MuiTableCell-body">16/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2408"><span class="badge  effect-blink">HOT</span>วิเคราะห์บอล โคปปา อิตาเลีย รอบ 2 : ซามพ์โดเรีย -vs- โตริโน่ </a></td><td class="MuiTableCell-root MuiTableCell-body">16/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2407">วิเคราะห์บอล บุนเดสลีก้า : เอ๊าก์สบวร์ก -vs- ไลป์ซิก</a></td><td class="MuiTableCell-root MuiTableCell-body">15/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2406">วิเคราะห์บอล บุนเดสลีก้า : ดอร์ทมุนด์ -vs- กรอยเธอร์ เฟือร์ธ</a></td><td class="MuiTableCell-root MuiTableCell-body">15/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2405">วิเคราะห์บอล พรีเมียร์ลีก : อาร์เซน่อล -vs- เวสต์แฮม</a></td><td class="MuiTableCell-root MuiTableCell-body">15/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2404">วิเคราะห์บอล พรีเมียร์ลีก : คริสตัล พาเลซ -vs- เซาธ์แฮมป์ตัน</a></td><td class="MuiTableCell-root MuiTableCell-body">15/12/21</td></tr><tr class="MuiTableRow-root"><td class="MuiTableCell-root MuiTableCell-body"><a href="https://livescorethai.net/post/2403">วิเคราะห์บอล พรีเมียร์ลีก : เบิร์นลี่ย์ -vs- วัตฟอร์ด</a></td><td class="MuiTableCell-root MuiTableCell-body">15/12/21</td></tr></tbody></table><div id="pagination"><nav aria-label="pagination navigation" class="MuiPagination-root"><ul class="MuiPagination-ul"><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded Mui-disabled Mui-disabled" tabindex="-1" type="button" disabled="" aria-label="Go to previous page"><svg class="MuiSvgIcon-root MuiPaginationItem-icon" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path></svg></button></li><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded Mui-selected" tabindex="0" type="button" aria-current="true" aria-label="page 1">1</button></li><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded" tabindex="0" type="button" aria-label="Go to page 2">2</button></li><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded" tabindex="0" type="button" aria-label="Go to page 3">3</button></li><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded" tabindex="0" type="button" aria-label="Go to page 4">4</button></li><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded" tabindex="0" type="button" aria-label="Go to page 5">5</button></li><li><div class="MuiPaginationItem-root MuiPaginationItem-ellipsis">…</div></li><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded" tabindex="0" type="button" aria-label="Go to page 242">242</button></li><li><button class="MuiButtonBase-root MuiPaginationItem-root MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded" tabindex="0" type="button" aria-label="Go to next page"><svg class="MuiSvgIcon-root MuiPaginationItem-icon" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></button></li></ul></nav></div></div></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"data":{"data":{"predictions":{"data":[{"id":3549,"prediction":"ทีเด็ด ฟันธง ดอร์ทมุนด์ ซัดกระจาย","price":"2.5","confidence":"80%","title":"บุนเดิสลีกา : ดอร์ทมุนด์ VS SpVgg Greuther Fürth","match_id":18156730,"winner":"home","odds_on":"home","league":{"league_name":"Germany - Bundesliga","league_name_th":"บุนเดิสลีกา","league_logo":"https://livescorethai.net/assets/images/flags/de.svg","league_id":82},"match":{"time":{"date_time":"2021-12-15 19:30:00","status":"FT","minute":90},"home":{"name_th":"ดอร์ทมุนด์","name":"Borussia Dortmund","logo":"https://cdn.sportmonks.com/images/soccer/teams/4/68.png"},"away":{"name_th":null,"name":"Borussia Dortmund","logo":"https://cdn.sportmonks.com/images/soccer/teams/7/3431.png"},"scores":{"ht_score":"1-0","ft_score":"3-0","et_score":null,"ps_score":null,"home":{"score":3,"pen_score":null},"away":{"score":0,"pen_score":null}}}},{"id":3550,"prediction":"ทีเด็ด ฟันธง แอร์เบ ไลป์ซิก เด็ดดวง","price":"1","confidence":"80%","title":"บุนเดิสลีกา : FC Augsburg VS แอร์เบ ไลป์ซิก","match_id":18156737,"winner":"away","odds_on":"away","league":{"league_name":"Germany - Bundesliga","league_name_th":"บุนเดิสลีกา","league_logo":"https://livescorethai.net/assets/images/flags/de.svg","league_id":82},"match":{"time":{"date_time":"2021-12-15 19:30:00","status":"FT","minute":90},"home":{"name_th":null,"name":"FC Augsburg","logo":"https://cdn.sportmonks.com/images/soccer/teams/26/90.png"},"away":{"name_th":"แอร์เบ ไลป์ซิก","name":"RB Leipzig","logo":"https://cdn.sportmonks.com/images/soccer/teams/21/277.png"},"scores":{"ht_score":"0-1","ft_score":"1-1","et_score":null,"ps_score":null,"home":{"score":1,"pen_score":null},"away":{"score":1,"pen_score":null}}}},{"id":3551,"prediction":"ทีเด็ด ฟันธง แฟร้งค์เฟิร์ต เอาอยู่","price":"0.5","confidence":"80%","title":"บุนเดิสลีกา : Borussia Mönchengladbach VS แฟร้งค์เฟิร์ต","match_id":18156734,"winner":"away","odds_on":"home","league":{"league_name":"Germany - Bundesliga","league_name_th":"บุนเดิสลีกา","league_logo":"https://livescorethai.net/assets/images/flags/de.svg","league_id":82},"match":{"time":{"date_time":"2021-12-15 17:30:00","status":"FT","minute":90},"home":{"name_th":null,"name":"Borussia Mönchengladbach","logo":"https://cdn.sportmonks.com/images/soccer/teams/11/683.png"},"away":{"name_th":"แฟร้งค์เฟิร์ต","name":"Eintracht Frankfurt","logo":"https://cdn.sportmonks.com/images/soccer/teams/14/366.png"},"scores":{"ht_score":"1-1","ft_score":"2-3","et_score":null,"ps_score":null,"home":{"score":2,"pen_score":null},"away":{"score":3,"pen_score":null}}}}],"predictionTotalPage":0,"page":1},"posts":{"data":[{"id":2412,"title":"วิเคราะห์บอล พรีเมียร์ลีก : เลสเตอร์ -vs- สเปอร์ส","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-16T01:22:06.000Z","updated_at":"2021-12-16T01:22:06.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/1J7QKH5.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล\u0026nbsp;พรีเมียร์ลีก :\u0026nbsp;เลสเตอร์ -vs- สเปอร์ส\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพฤหัสบดี ที่ 16 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 02.30 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;เสมอ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม :\u0026nbsp;คิง พาวเวอร์ สเตเดี้ยม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/bquG5cb.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเลสเตอร์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e12/12/21 ชนะ นิวคาสเซิ่ล 4-0 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e10/12/21 แพ้ นาโปลี 2-3 (เยือน) ยูฟ่า ยูโรป้า ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e06/12/21 แพ้ แอสตัน วิลล่า 1-2 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e02/12/21 เสมอ เซาท์แฮมป์ตัน 2-2 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e28/11/21 ชนะ วัตฟอร์ด 4-2 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสเปอร์ส\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e05/12/21 ชนะ นอริช 3-0 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e03/12/21 ชนะ เบรนท์ฟอร์ด 2-0 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e26/11/21 แพ้ มูร่า 1-2 (เยือน) ยูฟ่า ยูโรป้า คอนเฟอเรนซ์ ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e22/11/21 ชนะ ลีดส์ 2-1 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e07/11/21 เสมอ เอฟเวอร์ตัน 0-0 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e23/05/21 เลสเตอร์ แพ้ สเปอร์ส 2-4\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e20/12/20 สเปอร์ส แพ้ เลสเตอร์ 0-2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e19/07/20 สเปอร์ส ชนะ เลสเตอร์ 3-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e21/09/19 เลสเตอร์ ชนะ สเปอร์ส 2-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e10/02/19 สเปอร์ส ชนะ เลสเตอร์ 3-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/xlwrGQJ.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเลสเตอร์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;เลสเตอร์ ของกุนซือ เบรนแดน ร็อดเจอร์ส เพิ่งจะเปิดรังไล่ยำ นิวคาสเซิ่ล 4-0 ในลีกเมื่อสุดสัปดาห์ที่ผ่านมา สำหรับความพร้อมของทีมก่อนลงเล่น จะไม่มีชื่อ จอนนี่ อีแวนส์, เวสลี่ย์ โฟฟาน่า และ เจมส์ จัสติน สามแนวรับที่เดี้ยงกันยกแพ็ค ส่วนพวก ยานนิค เวสเตอร์การ์ด, ดาเนี่ยล อมาร์เต้ย์, ฟิลิป เบนโควิช, แฮมซ่า เชาดรี้, เคเลชี่ อิเฮียนาโช่, อาโยเซ่ เปเรซ และ อเดโมล่า ลุคแมน คือเหล่าบรรดาแข้งที่เกี่ยวข้องกับเชื้อโควิด-19 ซึ่งไม่สามารถลงเล่นได้แน่นอน คาดว่า ร็อดเจอร์ส เตรียมวางหมากในระบบ 4-2-3-1 โดยมี เจมี่ วาร์ดี้ กลับมาออกสตาร์ทเป็นตัวจริงในแดนหน้าและใช้ เจมส์ แม็ดดิสัน, เคียร์แนน ดูวส์บิวรี่-ฮอลล์ กับ ฮาร์วี่ย์ บาร์นส์ เป็นสามประสานกลางรุกคอยสร้างสรรค์โอกาสอยู่ด้านหลัง\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเลสเตอร์ (4-2-3-1) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;แคสเปอร์ ชไมเคิ่ล - ริคาร์โด้ เปไรร่า, วิลเฟร็ด เอ็นดิดี้, ชากลาร์ โซยุนชู, ไรอัน เบอร์ทรานด์ - ยูรี่ ตีเลอม็องส์, บูบาการี่ ซูมาเร่ - เจมส์ แม็ดดิสัน, เคียร์แนน ดูวส์บิวรี่-ฮอลล์, ฮาร์วี่ย์ บาร์นส์ - เจมี่ วาร์ดี้\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสเปอร์ส\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eสเปอร์ส ของกุนซือ อันโตนิโอ คอนเต้ ได้พักมาเต็มๆ เพราะโปรแกรมสุดสัปดาห์ที่ผ่านมากับ ไบรท์ตันฯ ถูกเลื่อน สำหรับสภาพทีมล่าสุดก่อนฟาดแข้ง จะไร้เงา คริสเตียน โรเมโร่ ที่เดี้ยงอยู่เพียงรายเดียวเท่านั้น ส่วนพวก เอแมร์ซอน รอยัล, ลูคัส มูร่า, โอลิเวอร์ สคิปป์, ซอน ฮวง มิน, เดน สการ์เล็ตต์ และ ไบรอัน กิล คือเหล่าบรรดาแข้งที่พัวพันกับเชื้อโควิด-19 ซึ่งแน่นอนว่าลงเล่นไม่ได้ทั้งหมด คาดว่า คอนเต้ เตรียมจัดทัพในระบบ 3-4-1-2 โดยมี สตีเว่น เบิร์กไวย์น กับ แฮร์รี่ เคน ควงคู่ล่าสกอร์ในแดนหน้าและใช้ โจวานี่ โล เซลโซ่ เป็นเพลย์เมคเกอร์คอยสนับสนุนอยู่ด้านหลังตามระเบียบ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสเปอร์ส (3-4-1-2) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;อูโก้ โยริส - ดาวินซอน ซานเชซ, อีริก ไดเออร์, เบ็น เดวี่ส์ - จาเฟ็ต แทงแกงก้า, แฮร์รี่ วิงค์ส, ปิแอร์ ฮอยเบิร์ก, เซร์กิโอ้ เรกีล่อน - โจวานี่ โล เซลโซ่ - สตีเว่น เบิร์กไวย์น, แฮร์รี่ เคน\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u0026nbsp;\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;เป็นเกมที่มีเรื่องให้พูดเยอะมาก แต่ขอปักใจไว้ก่อนว่าเจ้าถิ่น เลสเตอร์ มีโอกาสสูงที่จะซิวสามคะแนนในบ้านตัวเอง เพราะความมั่นใจหลังเปิดรังทุบ นิวคาสเซิ่ล 4-0 และเป็นการโชว์เทพของ เจมส์ แม็ดดิสัน, ฮาร์วี่ย์ บาร์นส์ กับ ยูรี่ ตีเลอม็องส์ แถมหน้าเป้าวันนี้น่าจะกลับมาใช้ เจมี่ วาร์ดี้ เชื่อว่าอันตรายไม่น้อยไปกว่าเดิม จริงอยู่ที่ปัญหาโควิด-19 จะระบาดหนักและเล่นงานแนวรับแทบเกลี้ยง ทว่าแนวรุกยังอยู่กันพอพึ่งพาได้ สวนทางกับทีมเยือน สเปอร์ส ที่ผู้เล่นตัวทำเกมและแดนกลางถูกวิกฤตไวรัสระบาดชวดลงช่วยทีมไปหลายราย และทำให้กุนซือ อันโตนิโอ คอนเต้ ต้องโรเตชั่นแบบลำบากใจพอสมควร นอกจากนี้พวกเขาไม่มีเกมลงเตะร่วมๆ 2 อาทิตย์ ก็น่าจะส่งผลเรื่องแมตช์ฟิตเนสกันเล็กน้อยในบางราย ฉะนั้นไม่แปลกที่เจ้าถิ่นจะมีเปอร์เซ็นต์เก็บสามคะแนนสูงไม่น้อย แนะนำอยู่ต่อรอรับทรัพย์สบายใจสุด ฟันธง! จัดไปครับ \"จิ้งจอกสยาม\" \u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;เลสเตอร์ ชนะ 2-1\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;เสมอ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2411,"title":"วิเคราะห์บอล พรีเมียร์ลีก : เชลซี -vs- เอฟเวอร์ตัน","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-16T01:22:00.000Z","updated_at":"2021-12-16T01:22:00.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/Jm6iIKN.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล\u0026nbsp;พรีเมียร์ลีก :\u0026nbsp;เชลซี -vs- เอฟเวอร์ตัน\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพฤหัสบดี ที่ 16 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 02.45 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;เชลซี ต่อ 1.5 \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม :\u0026nbsp;สแตมฟอร์ด บริดจ์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/oGinIHH.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเชลซี\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e11/12/21 ชนะ ลีดส์ 3-2 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e09/12/21 เสมอ เซนิตฯ 3-3 (เยือน) ยูฟ่า แชมเปี้ยนส์ ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e04/12/21 แพ้ เวสต์แฮม 2-3 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e02/12/21 ชนะ วัตฟอร์ด 2-1 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e29/11/21 เสมอ แมนฯยู 1-1 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเอฟเวอร์ตัน\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e13/12/21 แพ้ คริสตัล พาเลซ 1-3 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e07/12/21 ชนะ อาร์เซน่อล 2-1 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e02/12/21 แพ้ ลิเวอร์พูล 1-4 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e28/11/21 แพ้ เบรนท์ฟอร์ด 0-1 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e21/11/21 แพ้ แมนฯซิตี้ 0-3 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e09/03/21 เชลซี ชนะ เอฟเวอร์ตัน 2-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e13/12/20 เอฟเวอร์ตัน ชนะ เชลซี 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e08/03/20 เชลซี ชนะ เอฟเวอร์ตัน 4-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e07/12/19 เอฟเวอร์ตัน ชนะ เชลซี 3-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e18/03/19 เอฟเวอร์ตัน ชนะ เชลซี 2-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/nyXO7Qu.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเชลซี\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;เชลซี ของกุนซือ โธมัส ทูเชิ่ล เพิ่งจะเปิดรังเอาชนะ ลีดส์ 3-2 ในลีกมาสดๆ ร้อนๆ ช่วงสุดสัปดาห์ที่ผ่านมา สำหรับความพร้อมของทีมก่อนลงสังเวียน ไม่มีรายงานตัวเจ็บหรือติดโทษแบนเข้ามาเพิ่มเติม นอกเสียจาก เบ็น ชิลเวลล์ ที่เดี้ยงยาวอยู่เดิมเท่านั้น ส่วนทางด้านของ มาเตโอ โควาซิช ตกเป็นหนึ่งในเหยื่อการระบาดของโควิด-19 น่าจะลงเล่นไม่ได้สักระยะ ขณะที่ เอ็นโกโล่ ก็องเต้ กับ เทรโวห์ ชาโลบาห์ ต้องรอเช็คฟิตอย่างใกล้ชิดอีกครั้ง คาดว่า ทูเชิ่ล เตรียมวางหมากในระบบ 3-4-2-1 โดยมี โรเมลู ลูกากู ยืนหน้าล่าสกอร์และใช้ ฮาคิม ซิเย็ค กับ คริสเตียน พูลิซิช ควงคู่สร้างสรรค์เกมอยู่ด้านหลังตามระเบียบ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเชลซี (3-4-2-1) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;เอดูอาร์ ม็องดี้ - อันเดรียส คริสเตนเซ่น, ธิอาโก้ ซิลวา, อันโตนิโอ รูดิเกอร์ - รีซ เจมส์, รูเบน ลอฟตัส-ชี๊ค, จอร์จินโญ่, คัลลั่ม ฮัดสัน-โอดอย - ฮาคิม ซิเย็ค, คริสเตียน พูลิซิช - โรเมลู ลูกากู\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเอฟเวอร์ตัน\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eเอฟเวอร์ตัน ของกุนซือ ราฟาเอล เบนิเตซ เพิ่งจะบุกพ่าย คริสตัล พาเลซ 1-3 ในลีกช่วงสุดสัปดาห์ที่ผ่านมา สำหรับสภาพทีมก่อนลงเล่น จะไม่มีชื่อของ ลูก้าส์ ดีญ แบ็คซ้ายตัวเก่งที่ติดโทษแบน เช่นเดียวกับ เยร์รี่ มิน่า, ทอม เดวี่ส์, แอนดรอส ทาวน์เซ่นด์, โดมินิก คัลเวิร์ต-เลวิน และ ริชาร์ลิซอน ห้าแข้งเดี้ยซึ่งไม่สามารถใช้งานได้แน่นอน คาดว่า เบนิเตซ เตรียมจัดทัพในระบบ 4-3-3 โดยมี แอนโธนี่ กอร์ดอน, ซาโลม่อน รอนดอน กับ เดมาไร เกรย์ เป็นสามประสานแดนหน้าคอยล่าสกอร์และใช้ ฟาเบียน เดลฟ์ ปักหลักคุมกลางตามสูตร\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเอฟเวอร์ตัน (4-3-3) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;จอร์แดน พิคฟอร์ด - จอนโจ้ เคนนี่, เมสัน โฮลเกต, ไมเคิ่ล คีน, เบ็น ก็อดฟรี่ย์ - อับดุลลาย ดูกูเร่, ฟาเบียน เดลฟ์, อันเดร โกเมส - แอนโธนี่ กอร์ดอน, ซาโลม่อน รอนดอน, เดมาไร เกรย์\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u0026nbsp;\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;เจ้าบ้าน เชลซี มีแนวโน้มถล่มชัยสูงมาก แม้เกมล่าสุดจะปิดจ๊อบเหนือ ลีดส์ แบบทุลักทุเล 3-2 ทว่าโจทย์ในวันนี้ค่อนข้างง่ายและสบายกว่าเยอะ เพราะ เอฟเวอร์ตัน กำลังเผชิญปัญหาแข้งเดี้ยงเพียบ แถมวิงแบ็คตัวหลักอย่าง ลูก้าส์ ดีญ ก็ติดโทษแบนใช้งานไม่ได้ จึงไม่แปลกที่ฟอร์มระยะหลังอาจจะพังไม่เป็นท่า ด้วยการแพ้ 4 จาก 5 หนท้ายในลีก (ชนะ 1) และโดนทะลวงแนวรับยับเยินร่วมๆ 12 ตุงเลยทีเดียว ปิดท้ายด้วยสถิติการพบกันที่ สแตมฟอร์ด บริดจ์ ก็เป็นฝ่ายปราชัยรวด 2 ครั้งซ้อนและเสียเละเทะ 0-4 กับ 0-2 เรียกว่าตายเต็มราคาแบบไม่ต้องคิด อย่าลืมว่าพลพรรค \"สิงห์บลูส์\" กำลังเร่งฟอร์มเพื่อไล่ล่าบัลลังก์จ่าฝูงมาครอง ฉะนั้นไม่แปลกที่เรตจะเปิดมาไม่ไว้หน้าอาคันตุกะเลย แนะนำอยู่ต่อสถานเดียวไม่มีเสียวแน่นอน ฟันธง! จัดไปครับ เชลซี\u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;เชลซี ชนะ 3-1 \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;เชลซี ต่อ 1.5 \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2410,"title":"วิเคราะห์บอล พรีเมียร์ลีก : ลิเวอร์พูล -vs- นิวคาสเซิ่ล","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-16T01:21:55.000Z","updated_at":"2021-12-16T01:21:55.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/ND5tLfS.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล\u0026nbsp;พรีเมียร์ลีก :\u0026nbsp;ลิเวอร์พูล -vs- นิวคาสเซิ่ล\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพฤหัสบดี ที่ 16 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 03.00 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;ลิเวอร์พูล ต่อ 2\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม :\u0026nbsp;แอนฟิลด์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/ZmK59MV.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eลิเวอร์พูล\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e11/12/21 ชนะ แอสตัน วิลล่า 1-0 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e08/12/21 ชนะ เอซี มิลาน 2-1 (เยือน) ยูฟ่า แชมเปี้ยนส์ ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e04/12/21 ชนะ วูล์ฟส์ 1-0 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e02/12/21 ชนะ เอฟเวอร์ตัน 4-1 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e27/11/21 ชนะ เซาท์แฮมป์ตัน 4-0 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eนิวคาสเซิ่ล\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e12/12/21 แพ้ เลสเตอร์ 0-4 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e04/12/21 ชนะ เบิร์นลี่ย์ 1-0 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e01/12/21 เสมอ นอริช 1-1 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e27/11/21 แพ้ อาร์เซน่อล 0-2 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e20/11/21 เสมอ เบรนท์ฟอร์ด 3-3 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e24/04/21 ลิเวอร์พูล เสมอ นิวคาสเซิ่ล 1-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e31/12/20 นิวคาสเซิ่ล เสมอ ลิเวอร์พูล 0-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e26/07/20 นิวคาสเซิ่ล แพ้ ลิเวอร์พูล 1-3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e14/09/19 ลิเวอร์พูล ชนะ นิวคาสเซิ่ล 3-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e05/05/19 นิวคาสเซิ่ล แพ้ ลิเวอร์พูล 2-3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/nSZuBQL.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eลิเวอร์พูล\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;ลิเวอร์พูล ของกุนซือ เจอร์เก้น คล็อปป์ เพิ่งจะเปิดรังเชือดนิ่ม แอสตัน วิลล่า 1-0 ทำให้เจ็ดเกมท้ายทุกรายการชนะรวด สำหรับความพร้อมของทีมวันนี้ จะไร้เงา ฮาร์วี่ย์ เอลเลียตต์, เคอร์ติส โจนส์ กับ นาธาเนี่ยล ฟิลลิปส์ สามแข้งเดี้ยงที่ไม่สามารถลงเล่นได้แน่นอน ส่วนทางด้านของ โรแบร์โต้ ฟีร์มิโน่ กับ ดิว๊อค โอริกี้ ต้องรอเช็คฟิตอีกครั้งว่าจะกลับมาลงเล่นได้ทันเวลาหรือไม่ คาดว่า คล็อปป์ เตรียมโรเตชั่นในระบบ 4-3-3 โดยมี โมฮาเหม็ด ซาล่าห์, ดิโอโก้ โชต้า กับ ทาคูมิ มินามิโนะ เป็นสามประสานแดนหน้าคอยล่าตาข่ายและใช้ นาบี เกอิต้า, ฟาบินโญ่ กับ เจมส์ มิลเนอร์ ปักหลักคุมกลางตามระเบียบ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eลิเวอร์พูล (4-3-3) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;อลิสซง เบ็คเกอร์ - เทรนต์ อเล็กซานเดอร์-อาร์โนลด์, อิบราฮิม่า โกนาเต้, เฟอร์กิล ฟาน ไดย์ค, คอนสแตนตินอส ซิมิกาส - นาบี เกอิต้า, ฟาบินโญ่, เจมส์ มิลเนอร์ - โมฮาเหม็ด ซาล่าห์, ดิโอโก้ โชต้า, ทาคูมิ มินามิโนะ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eนิวคาสเซิ่ล\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eนิวคาสเซิ่ล ของกุนซือ เอ็ดดี้ ฮาว เพิ่งจะบุกพ่ายให้กับ เลสเตอร์ 0-4 ในลีกช่วงสุดสัปดาห์ที่ผ่านมา สำหรับสภาพทีมก่อนลงเตะ ไม่มีรายงานตัวเจ็บหรือติดโทษแบนเข้ามาเพิ่มเติม นอกเสียจาก พอล ดัมเม็ตต์ แนวรับวัย 30 ปี ซึ่งเดี้ยงยาวอยู่เดิมเท่านั้น นั่นหมายความว่าขุมกำลังหลักทั้งหมดอยู่กันครบถ้วน คาดว่า ฮาว เตรียมจัดทัพในระบบ 5-4-1 โดยมี คัลลั่ม วิลสัน ออกสตาร์ทยืนเป้าล่าสกอร์และใช้ โชเอลินตอน, โจเซฟ วิลล็อค, จอนโจ้ เชลวี่ย์ กับ อัลล็อง แซงต์-มักซิแม็ง ผนึกกำลังกันคุมกลางตามสูตร\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eนิวคาสเซิ่ล (5-4-1) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;มาร์ติน ดูบราฟก้า - ฆาบี มานกีโญ่, ฟาเบียน ชาร์, จามาล ลาสเซลล์ส, เคียแรน คลาร์ค, แม็ตต์ ริตชี่ - โชเอลินตอน, โจเซฟ วิลล็อค, จอนโจ้ เชลวี่ย์, อัลล็อง แซงต์-มักซิแม็ง - คัลลั่ม วิลสัน\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;เกมนี้เจ้าถิ่น ลิเวอร์พูล เตรียมโขยกโขกสับกันเต็มสูบ แม้จะมีแนวโน้มโรเตชั่นสูงมาก แต่ขุมกำลังเสริมที่มีอยู่ก็ถือว่าจัดจ้านและใช้งานได้ไม่มีปัญหา ไม่ว่าจะเป็น ทาคูมิ มินามิโนะ, คอนสแตนตินอส ซิมิกาส หรือ อิบราฮิม่า โกนาเต้ อย่าลืมว่าที่นี่ แอนฟิลด์ การเดินเครื่องเกมรุกเข้าใส่คู่แข่งจึงเป็นของคู่กัน ประกอบทีมเยือน นิวคาสเซิ่ล กำลังเสียขวัญหนักหลังพ่ายยับให้กับ เลสเตอร์ 0-4 ชนิดที่แนวรับมีปัญหาจัดๆ แถมสองหนท้ายในฐานะอาคันตุกะก็ปราชัยรวด และโดนทะลวงแนวรับยับเยินร่วมๆ 6 เม็ดชนิดที่ยิงคืนไม่ได้เลย แม้จะเปลี่ยนเจ้าของทีมหรือเปลี่ยนโค้ช แต่ผู้เล่นยังไม่เปลี่ยน เชื่อว่าชะตากรรมก็คงไม่ต่างจากที่คาดคิดไว้แน่นอน เมื่อพิจารณาจากเรตกับภาพรวมต่างๆ แนะนำอยู่ต่อไม่ต้องรอลงอาญา ฟันธง! จัดไปครับ \"หงส์แดง\" \u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;ลิเวอร์พูล ชนะ 3-0\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;ลิเวอร์พูล ต่อ 2\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2409,"title":"วิเคราะห์บอล โคปปา อิตาเลีย รอบ 2 : สเปเซีย -vs- เลชเช่ ","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-16T01:21:47.000Z","updated_at":"2021-12-16T01:21:47.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/GuoCjFh.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล โคปปา อิตาเลีย รอบ 2 : สเปเซีย -vs- เลชเช่ \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพฤหัสบดี ที่ 16 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 00.00 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล : สเปเซีย ต่อ 0.5 \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม : สตาดิโอ อัลแบร์โต้ ปิคโค่\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/F6OE4A7.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลงาน 5 นัดล่าสุดของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสเปเซีย\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e14//12/21 แพ้ โรม่า 0-2 (เยือน) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e05/12/21 เสมอ ซัสซัวโล่ 2-2 (เหย้า) เซเรีย อา \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e02/12/21 แพ้ อินเตอร์ มิลาน 0-2 (เยือน) เซเรีย อา \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e28/11/21 แพ้ โบโลญญ่า 0-1 (เหย้า) เซเรีย อา \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e20/11/21 แพ้ อตาลันต้า 2-5 (เยือน) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเลชเช่\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e11/12/21 แพ้ ปิซ่า 0-1 (เยือน) เซเรีย บี \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e04/12/21 ชนะ เรจจิน่า 2-0 (เหย้า) เซเรีย บี \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e01/12/21 ชนะ สปัล 3-1 (เยือน) เซเรีย บี\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e27/11/21 เสมอ แตร์นาน่า 3-3 (เหย้า) เซเรีย บี \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e20/11/21 เสมอ โฟรซิโนเน่ 0-0 (เยือน) เซเรีย บี\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลงานการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e11/05/19 เลชเช่ ชนะ สเปเซีย 2-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e31/12/18 สเปเซีย เสมอ เลชเช่ 1-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e17/08/14 สเปเซีย ชนะ เลชเช่ 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e15/03/08 สเปเซีย เสมอ เลชเช่ 1-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e14/10/07 เลชเช่ เสมอ สเปเซีย 2-2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://www.polball.club/_images/football_analytic/9/football_analytic-48645.jpg\" alt=\"Polball.club - วิเคราะห์บอล เซเรีย บี : เลชเช่ -vs- มอนซ่า\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสเปเซีย\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;สเปเซีย ของกุนซือ ติอาโก ม็อตต้า ผลงานในลีก 5 เกมหลังสุดยังสะกดคำว่าชนะไม่เป็น ส่วนสภาพความพร้อมนั้นแมตช์นี้จะเสีย กองกลางตัวหลักอย่าง ยาโคโป ซาล่า รวมถึง เมห์ดี บูราเบีย และเลโอ เซน่า หมดสิทธิ์ลงสนามทั้งหมด ขณะที่การจัดทัพคาดว่าจะใช้ระบบ 3-5-2 ลงบู๊ในเกมนี้ โดยแดนกลางจะให้โอกาสดาวรุ่งอย่าง ยาคุบ คีวิออร์ ลงปั้นเกมร่วมกับเควิน อากูเดโล่ สนับสนุน 2 หัวหอกในแดนหน้าอย่าง เรย์ มานาจ และเดวิด สเตรเล็ค คอยล่าตาข่ายร่วมกัน\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเลชเช่\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eเลชเช่ จากเวทีลีกรองอย่าง เซเรีย บี สภาพความพร้อมเกมวันนี้จะขาด ฟาบิโอ ปิซาคาเน่ กองหลังตัวเก๋าแค่รายเดียวซึ่งไม่ส่งผลกระทบใดๆต่อทีม โดยการจัดทัพคาดว่า มาร์โก บาโรนิ กุนซือใหญ่จะใช้ระบบ 4-2-3-1 ลงบู๊ใเกมนี้ แดนกลางจะวาง มาริโอ การ์กุยโล, กาเบรียล สเตรเฟซซ่า และฟรานเชสโก ดิ มาเรียโน่ คอยปั้นเกมร่วมกัน สนับสนุนกองหน้าตัวเป้าอย่าง มาร์โก โอลิวิเอรี่ (16 นัด)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;เจ้าบ้าน สเปเซีย แม้จะเป็นทีมจากลีกสูงสุด แต่ผลงานในลีกกำลังย่ำแย่จัดเพราะไม่ชนะใครมา 5 เกมติดต่อกันเข้าไปแล้ว แมตช์นี้แม้ได้เล่่นในบ้านเจอกับทีมจากลีกรองอย่าง เลชเช่ แต่เชื่อว่าจะสู้กันสนุกแน่นอน เพราะสเปเซียน่าจะส่งแข้งดาวรุ่งและสำรองลงบู๊ในเกมนี้ เนื่องจากเชื่อว่าจะเก็บตัวหลักของทีมไว้ใส่เต็มร้อยในเกมลีกมากกว่า เพราะสถานการณ์ของทีมย่ำแย่หนักต้องดิ้นรนหนีการตกชั้น เลยเชื่อว่า สเปเซีย น่าจะโฟกัสไปที่เกมลีกมากกว่า เรทราคาเปิดออกมาให้ สเปเซีย ต่อ 0.5 แนะนำให้อยู่ฝั่งรองมองในมุมนักลงทุนโอกาสเฮรับทรัพย์มีมากกว่า จัดไปครับ เลชเช่\u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;เสมอ 1-1\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล : สเปเซีย ต่อ 0.5 \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2408,"title":"วิเคราะห์บอล โคปปา อิตาเลีย รอบ 2 : ซามพ์โดเรีย -vs- โตริโน่ ","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-16T01:21:39.000Z","updated_at":"2021-12-16T01:21:39.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/iv8JKxr.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล โคปปา อิตาเลีย รอบ 2 : ซามพ์โดเรีย -vs- โตริโน่ \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพฤหัสบดี ที่ 16 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 03.00 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล : ซามพ์โดเรีย ต่อ 0/0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม : ลุยจิ แฟร์ราริส\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/QoLum5V.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลงาน 5 นัดล่าสุดของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eซามพ์โดเรีย\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e17/08/21 ชนะ เจนัว 3-1 (เยือน) เซเรีย อา \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e06/12/21 แพ้ ลาซิโอ 1-3 (เหย้า) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e01/12/21 แพ้ ฟิออเรนติน่า 1-3 (เยือน) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e27/11/21 ชนะ เวโรน่า 3-1 (เหย้า) เซเรีย อา \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e21/11/21 ชนะ ซาแลร์นิตาน่า 2-0 (เยือน) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eโตริโน่\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e12/12/21 ชนะ โบโลญญ่า 2-1 (เหย้า) เซเรีย อา \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e07/12/21 เสมอ กายารี่ 1-1 (เยือน) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e03/12/21 เสมอ เอ็มโปลี 2-2 (เหย้า) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e29/11/21 แพ้ โรม่า 0-1 (เยือน) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e23/11/21 ชนะ อูดิเนเซ่ 2-1 (เหย้า) เซเรีย อา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e31/10/21 โตริโน่ ชนะ ซามพ์โดเรีย 3-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e21/03/21 ซามพ์โดเรีย ชนะ โตริโน่ 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e01/12/20 โตริโน่ เสมอ ซามพ์โดเรีย 2-2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e09/02/20 โตริโน่ แพ้ ซามพ์โดเรีย 1-3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e22/09/19 ซามพ์โดเรีย ชนะ โตริโน่ 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/Jp0tRnt.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eซามพ์โดเรีย\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;ซามพ์โดเรีย ของเทรนเนอร์ โรแบร์โต้ ดาแวร์ซ่า เกมวันนี้พวกเขาจะไม่มี มิคเกล ดามส์การ์ด, โมฮัมเหม็ด อิฮัตตาเรน และ โรนัลโด้ วิเอร่า-นัน ที่บาดเจ็บ กับรอเช็คฟิต คริสตอฟเฟอร์ อาสคิลด์เซ่น และจูเลี่ยน ชาโบต์ อีก 2 รายด้วย โดยการจัดทัพคาดว่าจะมาในระบบ 4-4-2 แดนกลางจะวาง มอร์เท่น ธอรสบี้ กับ อัลบิน เอ็คดัล คอยปั้นเกมร่วมกัน โดยมี 2 หัวหอกในแดนหน้าเป็น มาโนโล่ กับเบียดินี่ และ ฟรานเชสโก้ คาปูโต้ คอยล่าสกอร์ร่วมกัน\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eซามพ์โดเรีย (4-4-2) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;เอมิล อูเดโร่ - บาร์ตอสซ์ เบเรสซินสกี้, มายะ โยชิดะ, โอมาร์ คอลลี่ย์, นิโคล่า มูร์รู - อันโตนิโอ คานเดรว่า, มอร์เท่น ธอรสบี้, อัลบิน เอ็คดัล, วาเลริโอ้ แวร์เร่ - มาโนโล่ กับเบียดินี่, ฟรานเชสโก้ คาปูโต้\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eโตริโน่\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\"กระทิงหิน\" โตริโน่ ของเทรนเนอร์ อิวาน ยูริช สภาพความพร้อมวันนี้พวกเขาจะไม่มี เบรแมร์ และอันเดรีย เบล็อตติ ที่บาดเจ็บหมดสิทธิ์ลงสนาม ขณะที่ในรายของ ซิโมเน่ แวร์ดิ และ ค็อฟฟี่ ฌิตชี่ นั้นรอเช็คฟิต เกมนี้คาดว่าจะมาในระบบ 3-4-2-1 โดยแนวรุกจะใช้ มาร์โก เปียก้า กับ โยซิป เบรกาโล่ คอยปั้นเกมร่วมกัน สนับมนุนหัวหอกตัวเป้าอย่าง อันโตนิโอ ซานาเบรีย\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eโตริโน่ (3-4-2-1) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;วานย่า มิลินโควิช-ซาวิช - เดวิด ซีม่า, อเลสซานโดร บูออนจอร์โน่, ริคาร์โด้ โรดริเกซ - วิลเฟร็ด ซิงโก้, ซาซ่า ลูกิช, ดานิเอเล่ บาเซลลี่, คริสเตียน อันซัลดิ - มาร์โก เปียก้า, โยซิป เบรกาโล่ - อันโตนิโอ ซานาเบรีย\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;เจ้าบ้าน ซามพ์โดเรีย ผลงานกำลังทำได้ดี 5 เกมหลังสุดเก็บชัยไปได้ถึง 3 นัด แถมเกมล่าสุดเพิ่งบุกไปถล่ม เจนัว 3-1 ในเกมดาร์บี้แมตช์ส่งผลให้พวกเขามีความมั่นใจเพิ่มมากขึ้นไปอีก ข้ามฝั่งมาที่ทีมเยือน โตริโน่ กันบ้างฟอร์มล่าสุดเพิ่งเก็บชัยเหนือ โบโลญญ่า ไป 2-1 เริ่มมีความมั่นใจมากขึ้นเช่นเดียวกัน เรทราคาเปิดออกมาให้ เสมอ ลาซามพ์ ยอมรับว่าฟันธงยากจริงๆกับเกมบอลถ้วยแบบนี้ แต่ถ้าให้เลือกก็ขอยืนอยู่ฝั่งเจ้าบ้านดีที่สุดครับ เพราะซามพ์โดเรีย ทำผลงานได้ดีแถมสถิติการเจอกันในบ้านของ ลาซามพ์ 2 ครั้งหลังสุดก็เป็นเจ้าบ้านที่ชนะรวด ดังนั้นเกมนี้จึงขอแนะนำให้อยู่ฝั่ง เจ้าบ้าน ดีที่สุด จัดไปครับ ซามพ์โดเรีย \u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;ซามพ์โดเรีย ชนะ 1-0\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล : ซามพ์โดเรีย ต่อ 0/0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2407,"title":"วิเคราะห์บอล บุนเดสลีก้า : เอ๊าก์สบวร์ก -vs- ไลป์ซิก","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-15T02:18:37.000Z","updated_at":"2021-12-15T02:18:37.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/U97cfHo.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล บุนเดสลีก้า : เอ๊าก์สบวร์ก -vs- ไลป์ซิก\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพุธ ที่ 15 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา :\u0026nbsp;02.30 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล :\u0026nbsp;ไลป์ซิก ต่อ 1.25\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม :\u0026nbsp;ดับเบิ้ลยูดับเบิ้ลยูเค อารีน่า\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/G0GYfjK.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเอ๊าก์สบวร์ก\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e11/12/21 ชนะ โคโลญจน์ 2-0 (เยือน) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e04/12/21 เเพ้ โบคุ่ม 2-3 (เหย้า) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e27/11/21 เสมอ แฮร์ธ่าฯ 1-1 (เยือน) บุนเดสลีก้า\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e20/11/21 ชนะ บาเยิร์น 2-1 (เหย้า) บุนเดสลีก้า\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e06/11/21 เเพ้ โวล์ฟสบวร์ก 0-1 (เยือน) บุนเดสลีก้า\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eไลป์ซิก\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e11/12/21 ชนะ กลัดบัค 4-1 (เหย้า) บุนเดสลีก้า\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e08/12/21 ชนะ แมนฯ ซิตี้ 2-1 (เหย้า) แชมเปี้ยนส์ ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e04/12/21 แพ้ ยูนิโอน เบอร์ลิน 1-2 (เยือน) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e29/11/21 เเพ้ เลเวอร์คูเซ่น 1-3 (เหย้า) บุนเดสลีก้า\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e25/11/21 ชนะ คลับ บรูซ 5-0 (เยือน) แชมเปี้ยนส์ ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเฮดทูเฮด\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e13/02/21 ไลป์ซิก ชนะ เอ๊าก์สบวร์ก 2 - 1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e23/12/20 เอ๊าก์สบวร์ก แพ้ ไลป์ซิก 0 - 3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e17/10/20 เอ๊าก์สบวร์ก แพ้ ไลป์ซิก 0 - 2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e27/06/20 เอ๊าก์สบวร์ก แพ้ ไลป์ซิก 1 - 2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e21/12/19 ไลป์ซิก ชนะ เอ๊าก์สบวร์ก 3 - 1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/413eRTj.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเอ๊าก์สบวร์ก\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;มาร์คุส ไวน์ซีร์ล กุนซือของ เอ๊าก์สบวร์ก จะไร้เงาของ อัลเฟร็ดห์ ฟินน์โบกาสัน (3 นัด / 1 ประตู), ฟลอเรียน นีเดอร์เล็คเนอร์ (11 นัด / 3 ประตู), โตเบียส สโตรเบิ้ล (5 นัด) เเละ เฟลิกซ์ อูดูโอไคห์ (3 นัด) ที่ไม่พร้อมใช้บริการ ส่วนในรายของ การ์ลอส กรูเอโซ่ (7 นัด), อาร์เน่ ไมเออร์ (12 นัด) เเละ อ็องดี้ เซกิรี่ (11 นัด / 2 ประตู) ต้องเช็คฟิต แต่สำหรับ เยฟเฟรย์ กูเวลูว์ (11 นัด / 1 ประตู) จะโดนโทษเเบนในเกมนี้\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเอ๊าก์สบวร์ก (4-4-2) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;ราฟาล กีคีวิชซ์ - ราฟาเอล ฟรามเเบร์เกอร์, โรเบิร์ต กุมนี่, รีซ อ็อกซ์ฟอร์ด, ยาโก้ - เฟรดริค เยนเซ่น, ดาเนี่ยล คาลิจูรี่, นิคลาส ดอร์ช, รูเบน วาร์กัส - อังเดร ฮาห์น, มิคาเอล เกรโกริตช์\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eไลป์ซิก\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eโดเมนิโก้ เตเดสโก้ ผู้จัดการทีมของ ไลป์ซิก จะไม่มีชื่อของ มาร์เซล ฮัลสเตนเเบร์ก, อูโก้ โนโบอา (2 นัด / 1 ประตู), ดานี่ โอลโม่ (4 นัด), ยุสซุฟ โพลเซ่น (10 นัด / 4 ประตู) เเละ มาร์เชโล่ ซารัคคี่ เนื่องจากควงเเขนกันเดี้ยง ส่วนในรายของ อามาดู ไอดาร่า (12 นัด / 2 ประตู) กับ ลูคัส โคลสเตอร์มันน์ (10 นัด) ต้องรอทดสอบความฟิตหน้างาน แต่สำหรับ อังเดร ซิลวา (15 นัด / 4 ประตู) พร้อมลงประจำการเเน่นอน\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eไลป์ซิก (3-4-3) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;ปีเตอร์ กูลัคซี่ - โมอาเหม็ด ซิมาก็อง, วิลลี่ ออร์บาน, โยโก กวาร์ดิโอล - นอร์ดี้ มูคิเอเล่, คอนราด ไลเมอร์, เควิน คัมเพิ่ล, อังเกลิโญ่ - เอมิล ฟอร์สเบิร์ก, อังเดร ซิลวา, กริสตอฟแฟร์ เอ็นคุนคู\u003c/span\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;ฟอร์ม 5 นัดลีกล่าสุดของทั้งคู่ \"สูสี\" กันไม่น้อย โดยเจ้าบ้านอย่าง เอ๊าก์สบวร์ก เก็บมาได้ 7 คะเเนน ตอนนี้รั้งที่ 16 ของตาราง ส่วนทาง ไลป์ซิก ผู้มาเยือน ได้มา 6 เเต้ม แต่ \"บุญเก่า\" มีเยอะพอสมควร จึงอยู่ในอันดับ 7 ของลีก มาเกมนี้เรตราคาบอลเปิดมา ไลป์ซิก ต่อ ลูกควบ เเนะนำ รอง เอ๊าก์สบวร์ก ดีกว่าครับ พวกเขาได้ลงเล่นในรังเเบบนี้ ยังไงๆ ก็สู้สุดใจแน่นอน เเม้ว่า ไลป์ซิก ในช่วงหลัง \"ผลงาน\" จะดีขึ้นตามลำดับ แต่กับ \"ทริปเยือน\" ในบุนเดสลีก้านั้น ยังไว้ใจไม่ได้ เพราะยังไม่ชนะใครเลย ทำสถิติไว้ที่ \"แข่ง 7 ชนะ 0 เสมอ 3 แพ้ 4\" เท่านั้น ถึงเกมนี้จะ \"เทพ\" เก็บชัยได้ แต่ก็คง \"ยิงขาด 2 ประตู\" ยากครับ เนื่องจาก เอ๊าก์สบวร์ก ก็ \"แกร่ง\" อยู่พอตัว จัดไปครับ เอ๊าก์สบวร์ก\u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;ไลป์ซิก ชนะ 2-1\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล :\u0026nbsp;ไลป์ซิก ต่อ 1.25\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2406,"title":"วิเคราะห์บอล บุนเดสลีก้า : ดอร์ทมุนด์ -vs- กรอยเธอร์ เฟือร์ธ","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-15T02:18:30.000Z","updated_at":"2021-12-15T02:18:30.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/tw16n7a.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล บุนเดสลีก้า : ดอร์ทมุนด์ -vs- กรอยเธอร์ เฟือร์ธ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพุธ ที่ 15 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา :\u0026nbsp;02.30 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล :\u0026nbsp;ดอร์ทมุนด์ ต่อ 2.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม :\u0026nbsp;ซิกนัล อิดูน่า พาร์ค\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/wSHyAQZ.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eดอร์ทมุนด์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e11/12/21 เสมอ โบคุ่ม 1-1 (เยือน) บุนเดสลีก้า\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e08/12/21 ชนะ เบซิคตัส 5-0 (เหย้า) เเชมเปี้ยนส์ ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e05/12/21 แพ้ บาเยิร์น 2-3 (เหย้า) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e27/11/21 ชนะ โวล์ฟสบวร์ก 3-1 (เยือน) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e25/11/21 เเพ้ สปอร์ติ้ง ลิสบอน 1-3 (เยือน) เเชมเปี้ยนส์ ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eกรอยเธอร์ เฟือร์ธ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e12/12/21 ชนะ ยูนิโอน เบอร์ลิน 1-0 (เหย้า) บุนเดสลีก้า\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e04/12/21 แพ้ เลเวอร์คูเซ่น 1-7 (เยือน) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e27/11/21 เเพ้ ฮอฟเฟ่นไฮม์ 3-6 (เหย้า) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e20/11/21 แพ้ กลัดบัค 0-4 (เยือน) บุนเดสลีก้า\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e08/11/21 เเพ้ แฟร้งค์เฟิร์ต 1-2 (เหย้า) บุนเดสลีก้า \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเฮดทูเฮด\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e21/08/18 กรอยเธอร์ เฟือร์ธ เเพ้ ดอร์ทมุนด์ 1 - 2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e13/04/13 กรอยเธอร์ เฟือร์ธ เเพ้ ดอร์ทมุนด์ 1 - 6\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e17/11/12 ดอร์ทมุนด์ ชนะ กรอยเธอร์ เฟือร์ธ 3 - 1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e21/03/12 กรอยเธอร์ เฟือร์ธ เเพ้ ดอร์ทมุนด์ 0 - 1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/b9pvtS0.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eดอร์ทมุนด์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;มาร์โก โรเซ่ นายใหญ่ของ ดอร์ทมุนด์ จะไม่มีชื่อของ มานูเอล อาคานฌี (14 นัด), มาเตอู โมเรย์, ยุสซูฟา มูโกโก้ (6 นัด), โจวานนี่ เรย์น่า (3 นัด / 2 ประตู), มาร์เซล ชเมลเซอร์ เเละ ลูก้า อันเบเฮาน์ ที่ยังเดี้ยง ส่วนในรายของ โรมัน บูร์กี้, ราฟาเอล เกร์เรโร่ (8 นัด / 3 ประตู) เเละ ดอนเยลล์ มาเล่น (14 นัด / 2 ประตู) ต้องทดสอบความฟิตอีกครั้ง ว่าใครพร้อมจะมีส่วนร่วมในเกมวันนี้บ้าง\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eดอร์ทมุนด์ (4-3-3) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;เกรกอร์ โคเบล - โธมัส มูนิเยร์, มัตส์ ฮุมเมลส์, ด็อง ซาชาดู, นิโก้ ชูลซ์ - จู๊ด เบลลิ่งแฮม, อาเซล วิตเซล, มาห์มู้ด ดาฮู้ด - ยูเลี่ยน บรันด์, เออร์ลิ่ง ฮาลันด์, มาร์โก้ ร๊อยส์\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eกรอยเธอร์ เฟือร์ธ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eสเตฟาน ไลเติ่ล เทรนเนอร์ของ กรอยเธอร์ เฟือร์ธ มีรายชื่อนักเตะบาดเจ็บเซ็ตเดิมอย่าง มาริอุส ฟุงค์ (8 นัด), ยุสติน ฮู้กม่า (3 นัด), กีเดี้ยน ยุง (1 นัด), โรบิน เคห์ร, เยสซิค เอ็นกานคัม เเละ นิค เฟียร์เกเวอร์ (7 นัด) เชื่อว่า ไลเติ่ล จะวาง ฮาร์วาร์ด นีลเซ่น (11 นัด / 1 ประตู) ลงเล่นเป็น \"จอมทัพ\" หลังคู่กองหน้าอย่าง ดิ๊กซ็อง อาเบียม่า (12 นัด) กับ บรานีมีร์ เฮอร์โกต้า (15 นัด / 4 ประตู)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eกรอยเธอร์ เฟือร์ธ (4-3-1-2) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;ซาสช่า บูร์เชิร์ต - มาร์โก เมเยอร์โฮเฟอร์, เซบาสเตียน ไกรส์เบ็ค, มาซิมิเลี่ยน เบาเออร์, เยโตร วิลเล็มส์ - พอล เซกุน, มักซ์ คริสเตียนเซ่น, ติโมธี ติลล์มัน - ฮาร์วาร์ด นีลเซ่น - ดิ๊กซ็อง อาเบียม่า, บรานีมีร์ เฮอร์โกต้า\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;กรอยเธอร์ เฟือร์ธ หักปากกาเซียนทั้งโลกเลยในเกมที่ผ่านมา เพราะเก็บชัยได้แบบสุดเหลือเชื่อ ทำให้หยุดสถิติ \"เเพ้รวด\" ได้เเล้ว แต่ก็ยังเป็น \"บ๊วย\" อย่างเดิม ส่วนทาง \"เสือเหลือง\" อาการชักไม่น่าไว้ใจ สะดุดมา 2 นัดซ้อนใน \"บอลลีก\" ยังดีที่รักษาตำแหน่ง \"รองจ่าฝูง\" ไว้ได้ต่อ มาเกมนี้เรตราคาบอลเปิดมา ดอร์ทมุนด์ ต่อ สองลูกครึ่ง เเนะนำ ต่อ ดอร์ทมุนด์ ดีกว่าครับ ยังไงๆ \"มาตรฐาน\" เเละ \"คลาส\" ของพวกเขาก็เหนือกว่าเยอะ คงไม่พลาดคว้าชัยเเน่นอน เรื่องที่ต้องลุ้นจึงเหลือแค่จะ \"ยิงขาด 3 ประตู\" ได้หรือไม่ ถึงเเม้ว่า กรอยเธอร์ เฟือร์ธ จะ \"กระเตื้อง\" ขึ้นมาก็จริง แต่กองหน้าระดับ ฮาลันด์ ไม่ใช่จะจัดการกันง่ายๆ แถมเเนวรับของอาคันตุกะเองก็ยังสับสนชีวิตอยู่ด้วย ดูทรงคงมี \"คดีฆาตกรรม\" เกิดขึ้นที่ \"ซิกนัล อิดูน่า พาร์ค\" ชัวร์ จัดไปครับ ดอร์ทมุนด์\u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด : ดอร์ทมุนด์  ชนะ 3-0\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล :\u0026nbsp;ดอร์ทมุนด์ ต่อ 2.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2405,"title":"วิเคราะห์บอล พรีเมียร์ลีก : อาร์เซน่อล -vs- เวสต์แฮม","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-15T02:18:23.000Z","updated_at":"2021-12-15T02:18:23.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/A5k0jYV.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล\u0026nbsp;พรีเมียร์ลีก :\u0026nbsp;อาร์เซน่อล -vs- เวสต์แฮม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพุธ ที่ 15 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 03.00 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;อาร์เซน่อล ต่อ 0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม : เอมิเรตส์ สเตเดี้ยม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/lqC8zAp.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอาร์เซน่อล\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e11/12/21 ชนะ เซาท์แฮมป์ตัน 3-0 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e07/12/21 แพ้ เอฟเวอร์ตัน 1-2 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e03/12/21 แพ้ แมนฯยู 2-3 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e27/11/21 ชนะ นิวคาสเซิ่ล 2-0 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e21/11/21 แพ้ ลิเวอร์พูล 0-4 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวสต์แฮม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e12/12/21 เสมอ เบิร์นลี่ย์ 0-0 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e10/12/21 แพ้ ดินาโม ซาเกร็บ 0-1 (เหย้า) ยูฟ่า ยูโรป้า ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e04/12/21 ชนะ เชลซี 3-2 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e02/12/21 เสมอ ไบรท์ตันฯ 1-1 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e28/11/21 แพ้ แมนฯซิตี้ 1-2 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e21/03/21 เวสต์แฮม เสมอ อาร์เซน่อล 3-3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e20/09/20 อาร์เซน่อล ชนะ เวสต์แฮม 2-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e07/03/20 อาร์เซน่อล ชนะ เวสต์แฮม 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e10/12/19 เวสต์แฮม แพ้ อาร์เซน่อล 1-3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e12/01/19 เวสต์แฮม ชนะ อาร์เซน่อล 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/4UX2fQZ.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอาร์เซน่อล\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;อาร์เซน่อล ของกุนซือ มิเกล อาร์เตต้า เพิ่งจะเปิดรังถล่ม เซาท์แฮมป์ตัน 3-0 ในลีกเมื่อสุดสัปดาห์ที่ผ่านมา สำหรับความพร้อมของทีมก่อนลงเตะ จะไม่มีชื่อ ปิแอร์ โอบาเมย็อง ที่มีปัญหาและถูกแบนจากทางสโมสร เช่นเดียวกับ เซอัด โคลาซินัก ซึ่งเดี้ยงยาวอยู่นานแล้วเท่านั้น คาดว่า อาร์เตต้า เตรียมจัดทัพในระบบ 4-4-1-1 โดยมี อเล็กซ็องเดร ลากาแซตต์ ยืนหน้าล่าสกอร์และใช้ มาร์ติน โอเดการ์ด รับจ๊อบหน้าต่ำคอยสร้างสรรค์เกมรุกอยู่ด้านหลัง ขณะที่ โธมัส ปาร์เตย์ กับ อัลเบิร์ต โลก็องก้า ผนึกกำลังกันคุมกลางตามสูตร\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอาร์เซน่อล (4-4-1-1) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;อารอน แรมสเดล - ทาเคฮิโระ โตมิยาสุ, เบ็น ไวท์, กาเบรียล มากัลแญส, นูโน่ ตาวาเรส - บูกาโย่ ซาก้า, โธมัส ปาร์เตย์, อัลเบิร์ต โลก็องก้า, เอมิล สมิธ โรว์ - มาร์ติน โอเดการ์ด - อเล็กซ็องเดร ลากาแซตต์\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวสต์แฮม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eเวสต์แฮม ของกุนซือ เดวิด มอยส์ เพิ่งจะบุกเจ๊าจืด เบิร์นลี่ย์ 0-0 ทำให้สามเกมหลังสุดในลีกยังไม่แพ้ใคร สำหรับสภาพทีมก่อนฟาดแข้ง ไม่มีรายงานตัวเจ็บหรือติดโทษแบนเข้ามาเพิ่มเติม นอกเสียจาก อันเจโล่ อ็อกบอนน่า, เคิร์ต ซูม่า, เบ็น จอห์นสัน, อารอน เครสส์เวลล์ และ ไรอัน เฟรเดริคส์ ห้าแข้งเดี้ยงค้างสต๊อคซึ่งยังไม่หายดี คาดว่า มอยส์ เตรียมวางหมากในระบบ 4-2-3-1 โดยมี มิคาอิล อันโตนิโอ ยืนหน้าล่าตาข่ายและใช้ จาร์ร็อด โบเว่น, นิโคล่า วลาซิช กับ ปาโบล ฟอร์นัลส์ เป็นสามประสานกลางรุกคอยสนับสนุนอยู่ด้านหลังตามระเบียบ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวสต์แฮม (4-2-3-1) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;ลูคัส ฟาเบียนสกี้ - วลาดิเมียร์ คูฟาล, เคร็ก ดอว์สัน, อิสซ่า ดิย๊อป, อาร์กตูร์ มาซูอากู - โทมัส ซูเซ็ค, ดีแคลน ไรซ์ - จาร์ร็อด โบเว่น, นิโคล่า วลาซิช, ปาโบล ฟอร์นัลส์ - มิคาอิล อันโตนิโอ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u0026nbsp;\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;อย่าลืมว่าทีมเยือน เวสต์แฮม กับ \"ลอนดอนดาร์บี้\" คือของถนัดสำหรับพวกเขา แถมขึ้นชื่อว่ากุนซือ เดวิด มอยส์ แล้วด้วย การต่อกรกับบิ๊กเนมไม่ค่อยทำให้แฟนๆ ต้องผิดหวัง แม้ว่าทริปลุย เอมิเรตส์ สเตเดี้ยม จะค่อนข้างยากพอสมควร เนื่องจากเจ้าถิ่น อาร์เซน่อล จัดว่าแข็งแกร่งไม่ธรรมดาก็จริง แต่เจอกันหนล่าสุดกินกันไม่ลงและจบเจ๊า 3-3 ปิดท้ายด้วยฟอร์มเฉพาะตัวของ \"ขุนค้อน\" เวลาเจอกับทีมใหญ่ สามารถเอาชนะ ลิเวอร์พูล 3-2 และ เชลซี 3-2 ได้เลย ฉะนั้นเจอกับ \"ไอ้ปืนใหญ่\" ไม่น่ากลัวสักเท่าไร เมื่อพิจารณาจากเรตกับภาพรวมต่างๆ แนะนำอยู่รองลุ้นสองมุมสบายใจสุด ฟันธง! จัดไปครับ เวสต์แฮม\u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;เสมอ 2-2\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;อาร์เซน่อล ต่อ 0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2404,"title":"วิเคราะห์บอล พรีเมียร์ลีก : คริสตัล พาเลซ -vs- เซาธ์แฮมป์ตัน","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-15T02:18:16.000Z","updated_at":"2021-12-15T02:18:16.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/Ok5RTLi.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล\u0026nbsp;พรีเมียร์ลีก :\u0026nbsp;คริสตัล พาเลซ -vs- เซาธ์แฮมป์ตัน\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพุธ ที่ 15 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 02.30 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;คริสตัล พาเลซ ต่อ 0/0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม :\u0026nbsp;เซลเฮิร์ตส์ ปาร์ค\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/dxDcJDx.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eคริสตัล พาเลซ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e13/12/21 ชนะ เอฟเวอร์ตัน 3-1 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e05/12/21 แพ้ แมนฯยู 0-1 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e01/12/21 แพ้ ลีดส์ 0-1 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e27/11/21 แพ้ แอสตัน วิลล่า 1-2 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e20/11/21 เสมอ เบิร์นลี่ย์ 3-3 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเซาท์แฮมป์ตัน\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e11/12/21 แพ้ อาร์เซน่อล 0-3 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e04/12/21 เสมอ ไบรท์ตันฯ 1-1 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e02/12/21 เสมอ เลสเตอร์ 2-2 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e27/11/21 แพ้ ลิเวอร์พูล 0-4 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e20/11/21 แพ้ นอริช 1-2 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e12/05/21 เซาท์แฮมป์ตัน ชนะ คริสตัล พาเลซ 3-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e12/09/20 คริสตัล พาเลซ ชนะ เซาท์แฮมป์ตัน 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e22/01/20 คริสตัล พาเลซ แพ้ เซาท์แฮมป์ตัน 0-2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e28/12/19 เซาท์แฮมป์ตัน เสมอ คริสตัล พาเลซ 1-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e31/01/19 เซาท์แฮมป์ตัน เสมอ คริสตัล พาเลซ 1-1\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/SPPapaz.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eคริสตัล พาเลซ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;คริสตัล พาเลซ ของกุนซือ ปาทริค วิเอร่า เพิ่งจะเปิดรังเอาชนะ เอฟเวอร์ตัน 3-1 ปลดล็อคหลังพ่ายรวดสามเกมลีกก่อนหน้านี้ สำหรับความพร้อมของทีมล่าสุด ไม่มีรายงานตัวเจ็บหรือติดโทษแบนเข้ามาเพิ่มเติม นอกเสียจาก นาธาน เฟอร์กูสัน กองกลางวัย 21 ปี ซึ่งเดี้ยงยาวอยู่เดิมเท่านั้น คาดว่า วิเอร่า เตรียมจัดทัพในระบบการเล่น 4-3-3 โดยมี จอร์แดน อายิว, คริสติย็อง เบนเตเก้ กับ วิลฟรีด ซาฮา เป็นสามประสานแดนหน้าคอยล่าสกอร์และใช้ คอเนอร์ กัลลาเกอร์, ชี๊คฮู กูยาเต้ กับ เจฟฟรี่ย์ ชลุ๊ปป์ ผนึกกำลังกันคุมกลางตามระเบียบ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eคริสตัล พาเลซ (4-3-3) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;บิเซนเต้ กูไอต้า - โจเอล วอร์ด, เจมส์ ทอมกิ้นส์, มาร์ก กูเอฮิ, ไทริค มิตเชลล์ - คอเนอร์ กัลลาเกอร์, ชี๊คฮู กูยาเต้, เจฟฟรี่ย์ ชลุ๊ปป์ - จอร์แดน อายิว, คริสติย็อง เบนเตเก้, วิลฟรีด ซาฮา\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเซาท์แฮมป์ตัน\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eเซาท์แฮมป์ตัน ของกุนซือ ราล์ฟ ฮาเซ่นฮุตเทิ่ล เพิ่งจะบุกพ่ายให้กับ อาร์เซน่อล 0-3 ทำให้ห้าเกมลีกที่ผ่านมายังไม่ชนะใคร สำหรับความพร้อมของทีมก่อนลงเตะ จะได้ตัว โอริโอล โรเมอู กับ โมฮัมเหม็ด ซาลิซู สองแข้งหลักพ้นโทษแบนกลับมาประจำการได้อีกครั้ง เช่นเดียวกับ เช อดัมส์, สจ๊วร์ต อาร์มสตรอง, เฟรเซอร์ ฟอร์สเตอร์ และ อเล็กซ์ แม็กคาร์ธี่ สี่แข้งเดี้ยงหน้าเดิมซึ่งยังไม่หายดี คาดว่า ฮาเซ่นฮุตเทิ่ล เตรียมวางหมากในระบบ 4-4-2 โดยมี นาธาน เร้ดม่อนด์ กับ ธีโอ วัลคอตต์ ผนึกกำลังกันล่าสกอร์ในแดนหน้าและใช้ เจมส์ วอร์ด-เพราส์ กับ โรเมอู ปักหลักคุมกลางตามสูตร\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเซาท์แฮมป์ตัน (4-4-2) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;วิลลี่ กาบาเญโร่ - วาเลนติโน่ ลิฟราเมนโต้, โมฮัมเหม็ด ซาลิซู, แยน เบดนาเร็ค, ไคล์ วอล์คเกอร์-ปีเตอร์ส - โมฮาเหม็ด เอลยูนูสซี่, เจมส์ วอร์ด-เพราส์, โอริโอล โรเมอู, นาธาน เตลล่า - นาธาน เร้ดม่อนด์, ธีโอ วัลคอตต์\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u0026nbsp;\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;ต้องบอกว่าเจ้าถิ่น คริสตัล พาเลซ กำลังมั่นใจหลังคว้าชัยเหนือ เอฟเวอร์ตัน 3-1 ในบ้านตัวเอง ซึ่งถือเป็นเกมปลดล็อคชั้นดี และอย่าลืมว่า 2 จาก 3 เกมเหย้าท้ายในลีก สามารถกำชัยได้ด้วย (แพ้ 1) แถมซัดรวมกันทั้งสิ้น 6 ประตูเลยทีเดียว สวนทางกับทีมเยือน เซาท์แฮมป์ตัน ที่ยังไม่ชนะใครเลยตลอด 5 เกมลีกที่ผ่านมาและปราชัยไปเหนาะๆ 3 ครั้ง (เสมอ 2) แถมโดนทะลวงแนวรับนับไม่ถ้วนกว่า 12 ตุงอีกด้วย ปิดท้ายด้วยสภาพความพร้อมของทีมที่แย่กว่ามาก เพราะไร้เงาทั้ง เช อดัมส์ กับ อเล็กซ์ แม็กคาร์ธี่ สองกำลังหลักที่เดี้ยงอยู่ทั้งคู่ ฉะนั้นไม่แปลกที่เจ้าบ้านจะมีโอกาสสูงในการเก็บสามคะแนน แนะนำอยู่ต่อไม่ต้องรอลงอาญา ฟันธง! จัดไปครับ คริสตัล พาเลซ\u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;คริสตัล พาเลซ ชนะ 2-1\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;คริสตัล พาเลซ ต่อ 0/0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"},{"id":2403,"title":"วิเคราะห์บอล พรีเมียร์ลีก : เบิร์นลี่ย์ -vs- วัตฟอร์ด","category":1,"thumnail":0,"highlight":true,"published":true,"deleted_at":null,"created_at":"2021-12-15T02:18:06.000Z","updated_at":"2021-12-15T02:18:06.000Z","content":"\u003cdiv class=\"ql-editor\" data-gramm=\"false\" contenteditable=\"true\"\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/JY7Dkmj.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์บอล\u0026nbsp;พรีเมียร์ลีก :\u0026nbsp;เบิร์นลี่ย์ -vs- วัตฟอร์ด\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวันแข่ง\u0026nbsp;: วันพุธ ที่ 15 ธันวาคม 2564\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเวลา : 02.30 น.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;เบิร์นลี่ย์ ต่อ 0/0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eสนาม : เทิร์ฟ มัวร์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u003cimg src=\"https://i.imgur.com/qu2HlcJ.jpg\"\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฟอร์ม 5 นัดหลังสุดของทั้ง 2 ทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเบิร์นลี่ย์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e12/12/21 เสมอ เวสต์แฮม 0-0 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e04/12/21 แพ้ นิวคาสเซิ่ล 0-1 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e02/12/21 เสมอ วูล์ฟส์ 0-0 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e20/11/21 เสมอ คริสตัล พาเลซ 3-3 (เหย้า) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e06/11/21 เสมอ เชลซี 1-1 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวัตฟอร์ด\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e11/12/21 แพ้ เบรนท์ฟอร์ด 1-2 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e05/12/21 แพ้ แมนฯซิตี้ 1-3 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e02/12/21 แพ้ เชลซี 1-2 (เหย้า) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(230, 0, 0);\"\u003e28/11/21 แพ้ เลสเตอร์ 2-4 (เยือน) พรีเมียร์ลีก \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(0, 138, 0);\"\u003e20/11/21 ชนะ แมนฯยู 4-1 (เยือน) พรีเมียร์ลีก\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลการพบกันของทั้งสองทีม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e26/06/20 เบิร์นลี่ย์ ชนะ วัตฟอร์ด 1-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e23/11/19 วัตฟอร์ด แพ้ เบิร์นลี่ย์ 0-3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e19/01/19 วัตฟอร์ด เสมอ เบิร์นลี่ย์ 0-0\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e19/08/18 เบิร์นลี่ย์ แพ้ วัตฟอร์ด 1-3\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e07/04/18 วัตฟอร์ด แพ้ เบิร์นลี่ย์ 1-2\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://i.imgur.com/5o81Y20.jpg\"\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวิเคราะห์ก่อนเกม\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเบิร์นลี่ย์\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งเจ้าบ้าน\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;เบิร์นลี่ย์ ของกุนซือ ฌอน ไดช์ เพิ่งจะเปิดรังเจ๊าจืด เวสต์แฮม 0-0 ทำให้ห้าเกมลีกหลังสุดยังไม่ชนะใคร สำหรับสภาพทีมก่อนลงเตะ ไม่มีรายงานตัวเจ็บหรือติดโทษแบนเข้ามาเพิ่มเติม นอกเสียจาก แอชลี่ย์ บาร์นส์ ซึ่งเดี้ยงยาวอยู่เดิมเท่านั้น ส่วนพวก เดล สตีเฟ่นส์, มักเวล กอร์เน่ต์ กับ คอนเนอร์ โรเบิร์ตส์ ต้องรอเช็คฟิตอีกครั้งว่าจะกลับมาทันลงบู๊หรือไม่ คาดว่า ไดช์ เตรียมวางหมากในระบบ 4-4-2 โดยมี มาเต็จ วีดร้า กับ คริส วู้ด ควงคู่ล่าสกอร์ในแดนหน้าและใช้ แอชลี่ย์ เวสต์วู้ด กับ จอช บราวน์ฮิลล์ ผนึกกำลังกันคุมกลางตามสูตร\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eเบิร์นลี่ย์ (4-4-2) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;นิค โป๊ป - แม็ตธิว โลว์ตัน, เจมส์ ทาร์คอฟสกี้, เบ็น มี, ชาร์ลี เทย์เลอร์ - โยฮันน์ กุ๊ดมุนด์สสัน, แอชลี่ย์ เวสต์วู้ด, จอช บราวน์ฮิลล์, ดไวจ์ท แม็กนีล - มาเต็จ วีดร้า, คริส วู้ด\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวัตฟอร์ด\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eฝั่งทีมเยือน\u0026nbsp;\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003eวัตฟอร์ด ของกุนซือ เคลาดิโอ รานิเอรี่ เพิ่งจะบุกพ่ายให้กับ เบรนท์ฟอร์ด 1-2 ทำให้สี่เกมท้ายในลีกปราชัยรวด สำหรับความพร้อมของทีมวันนี้ ไม่มีรายงานตัวเจ็บหรือติดโทษแบนเข้ามาเพิ่มเติม เว้นเสียจาก เบ็น ฟอสเตอร์, นิโกล่าส์ เอ็นกูลู, อดัม มาซิน่า, ปีเตอร์ เอเตโบ้, ควัดโว่ บาห์ กับ อิสไมล่า ซาร์ เหล่าบรรดาแข้งเดี้ยงค้างสต๊อคซึ่งยังไม่หายดี คาดว่า รานิเอรี่ เตรียมจัดทัพในระบบ 4-1-4-1 โดยมี โจชัว คิง ยืนเป้าล่าตาข่ายและใช้ ทอม เคลเวอร์ลี่ย์ กับ มูสซ่า ซิสโซโก้ รับจ๊อบกลางรุกคอยซัพพอร์ตอยู่แนวหลังตามระเบียบ\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eวัตฟอร์ด (4-1-4-1) :\u003c/strong\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;ดาเนี่ยล แบ็คมันน์ - กิโก้ เฟเมเนีย, คริสติย็อง กาบาเซเล่, เคร็ก แคธคาร์ต, แดนนี่ โรส - ยูราย คุชก้า - เอ็มมานูเอล เดนนิส, ทอม เคลเวอร์ลี่ย์, มูสซ่า ซิสโซโก้, เคน เซม่า - โจชัว คิง\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cblockquote\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eทรรศนะ\u003c/strong\u003e\u003c/blockquote\u003e\u003cblockquote\u003e\u003cspan style=\"color: rgb(68, 68, 68);\"\u003e\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;\u0026nbsp;เกมนี้ขอเชียร์เจ้าบ้าน เบิร์นลี่ย์ ดีกว่า แม้จะไม่ชนะใครเลยตลอด 5 เกมลีกที่ผ่านมา แต่เชื่อว่านี่น่าจะถึงเวลาปลดล็อคของพวกเขาแล้ว ซึ่งการบู๊ใน เทิร์ฟ มัวร์ ตลอด 3 เกมเหย้าท้ายในลีก สามารถผลิตสกอร์ได้ถึง 6 ลูกเลยทีเดียว หากไม่มีอะไรผิดพลาดก็น่าจะเก็บสามคะแนนได้ไม่ยากเย็น ประกอบกับทีมเยือน วัตฟอร์ด นอกจากต้องเผชิญหน้ากับปัญหาอาการบาดเจ็บของขุมกำลังหลายรายแล้ว ฟอร์ม 4 เกมท้ายในลีกก็ปราชัยรวดแบบเละเทะรวมทั้งสิ้น 11 ตุง เรียกว่าโดนอย่างน้อย 2-3 เม็ดยืนพื้น ฉะนั้นไม่แปลกที่เจ้าถิ่นจะมีลุ้นซิวชัยในคืนนี้ เมื่อพิจารณาจากเรตกับภาพรวมของทั้งคู่ แนะนำอยู่ต่อรอรับทรัพย์ดีกว่า ฟันธง! จัดไปครับ เบิร์นลี่ย์ \u003c/span\u003e\u003c/blockquote\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eผลที่คาด :\u0026nbsp;เบิร์นลี่ย์ ชนะ 1-0\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eราคาบอล\u0026nbsp;:\u0026nbsp;เบิร์นลี่ย์ ต่อ 0/0.5\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong style=\"color: rgb(68, 68, 68);\"\u003eอัตราความมั่นใจ : 8/10\u003c/strong\u003e\u003c/p\u003e\u003c/div\u003e\u003cdiv class=\"ql-clipboard\" contenteditable=\"true\" tabindex=\"-1\"\u003e\u003c/div\u003e\u003cdiv class=\"ql-tooltip ql-hidden\"\u003e\u003ca class=\"ql-preview\" target=\"_blank\" href=\"about:blank\"\u003e\u003c/a\u003e\u003cinput type=\"text\" data-formula=\"e=mc^2\" data-link=\"https://quilljs.com\" data-video=\"Embed URL\"\u003e\u003ca class=\"ql-action\"\u003e\u003c/a\u003e\u003ca class=\"ql-remove\"\u003e\u003c/a\u003e\u003c/div\u003e"}],"postTotalPage":242,"page":1}}},"page":1},"__N_SSP":true},"page":"/","query":{},"buildId":"_vL5Sr-L9nim9N5dlpIGf","isFallback":false,"gssp":true}</script><script nomodule="" src="/_next/static/chunks/polyfills-483e9e96b8aec87b069a.js"></script><script src="/_next/static/chunks/main-01296f80a3a27a0d8764.js" async=""></script><script src="/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js" async=""></script><script src="/_next/static/chunks/framework.8c52b5b4b899e1d1fad4.js" async=""></script><script src="/_next/static/chunks/commons.db8e5b07ac008231ac1b.js" async=""></script><script src="/_next/static/chunks/3570992f341794fc88456f388fe5831bd2831e9b.9a93886710ea349fc596.js" async=""></script><script src="/_next/static/chunks/pages/_app-f1b663bf8c8d9bfa6351.js" async=""></script><script src="/_next/static/chunks/2852872c.2cadfa95eaa60a0d995b.js" async=""></script><script src="/_next/static/chunks/75fc9c18.72ffbdf36987a48d9602.js" async=""></script><script src="/_next/static/chunks/b44c568d85ff727bb04d0a9bdcef582f3a1c0c71.44706ab911b17ff7472d.js" async=""></script><script src="/_next/static/chunks/pages/index-133bcace328b5a13f6b1.js" async=""></script><script src="/_next/static/_vL5Sr-L9nim9N5dlpIGf/_buildManifest.js" async=""></script><script src="/_next/static/_vL5Sr-L9nim9N5dlpIGf/_ssgManifest.js" async=""></script></body></html>
